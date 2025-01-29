@@ -5,11 +5,11 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/dingkwang)
 
 
-Welcome to my little corner of the internet! I’ve just wrapped up my career as Perception Validation Engineer at [Aeva](aeva.ai). Alongside this, I am also a member of the San Francisco Bay Are [ZGZG machine learing study group](https://www.youtube.com/watch?v=sx4zDrBFx8g) study group.
+Welcome to my little corner of the internet! I am working as a Perception Validation Engineer at [Aeva](aeva.ai). Alongside this, I am also a member of the San Francisco Bay Area [ZGZG machine learning study group](https://www.youtube.com/watch?v=sx4zDrBFx8g) study group.
 
 I also contribute as a Developer at the [CatchOnLabs](https://github.com/nftblackmagic) where I focus on **Image Generative AI**, **Virtual TryOn**, and **multi-modal conversational agents**.
 
-On the ccomputer vision front, I collaborate with [Dr. Sanjeev Loppal](https://focus.ece.ufl.edu/team/) at the **FOCUS LAB** at the **University of Florida** on projects that aim to empower the capability of **drone** and **autonomous vehicle**.
+On the computer vision front, I collaborate with [Dr. Sanjeev Loppal](https://focus.ece.ufl.edu/team/) at the **FOCUS LAB** at the **University of Florida** on projects that aim to empower the capability of **drone** and **autonomous vehicle**.
 
 
 🌟🌟Feel free to reach out! Whether it’s for research, collaboration, or just to exchange ideas over a casual chat, I’m always open to connecting and exploring new possibilities!🌟🌟
@@ -22,7 +22,7 @@ On the ccomputer vision front, I collaborate with [Dr. Sanjeev Loppal](https://f
 
 ## What I'm Up To <img  height=50px src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" />
 
-- 🌱 I'm currently exploring exploring the state of the art virtual tryon generation model based on diffusion/flow matching. 
+- 🌱 I'm currently exploring the state-of-the-art virtual tryon generation model based on diffusion/flow matching. 
 - 📝 Sharing my journey and insights through articles on platforms like [Medium](https://medium.com/@wangdk93).
 
 - 📫 How to reach me: [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=&logo=gmail&logoColor=white)](mailto:wangdk93@gmail.com)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-2d64bc?style=&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dingkang-wang-661219a0/).
