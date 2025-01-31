@@ -5,7 +5,9 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/dingkwang)
 
 
-Welcome to my little corner of the internet! I am working as a Perception Validation Engineer at [Aeva](aeva.ai). Alongside this, I am also a member of the San Francisco Bay Area [ZGZG machine learning study group](https://www.youtube.com/watch?v=sx4zDrBFx8g) study group.
+Welcome to my little corner of the internet! I am a Ph.D. holder in machine learning with expertise in autonomous driving and generative AI.
+
+I am working as a Perception Validation Engineer at [Aeva](aeva.ai). Alongside this, I am also a member of the San Francisco Bay Area [ZGZG machine learning study group](https://www.youtube.com/watch?v=sx4zDrBFx8g) study group.
 
 I also contribute as a Developer at the [CatchOnLabs](https://github.com/nftblackmagic) where I focus on **Image Generative AI**, **Virtual TryOn**, and **multi-modal conversational agents**.
 
