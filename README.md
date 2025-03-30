@@ -9,17 +9,18 @@ Welcome to my little corner of the internet! I am a Ph.D. holder in machine lear
 
 I am working as a Perception Validation Engineer at [Aeva](aeva.ai). Alongside this, I am also a member of the San Francisco Bay Area [ZGZG machine learning study group](https://www.youtube.com/watch?v=sx4zDrBFx8g) study group.
 
-I also contribute as a Developer at the [CatchOnLabs](https://github.com/nftblackmagic) where I focus on **Image Generative AI**, **Virtual TryOn**, and **multi-modal conversational agents**.
+Beyond my work at Tesla, I'm an active member of the San Francisco Bay Area's [ZGZG machine learning study group](https://www.youtube.com/watch?v=sx4zDrBFx8g) 📚 and contribute as a Developer at CatchOnLabs, exploring Image Generative AI 🎨 and Virtual TryOn 👕.
 
 On the computer vision front, I collaborate with [Dr. Sanjeev Loppal](https://focus.ece.ufl.edu/team/) at the **FOCUS LAB** at the **University of Florida** on projects that aim to empower the capability of **drone** and **autonomous vehicle**.
 
 
-🌟🌟Feel free to reach out! Whether it’s for research, collaboration, or just to exchange ideas over a casual chat, I’m always open to connecting and exploring new possibilities!🌟🌟
+🌟🌟Feel free to reach out! 👋 Whether it's for research, collaboration, or just to exchange ideas over a casual chat 💬, I'm always open to connecting and exploring new possibilities!🌟🌟
 
 
-## News!!!!
-- Excited to share the first open-source FMCW LIDAR perception model training and test code! 🌟 Check it out here: (FMCW-DopplerPointTransformerNet)[https://github.com/dingkwang/FMCW-DopplerPointTransformerNet].
-- We (with [An Zhang](https://www.linkedin.com/in/an-zhang-4412b8133/), [Ziang Xu](https://www.linkedin.com/in/stevexu24/), and [Yu Yao](https://www.linkedin.com/in/yu-brian-yao/)) have launched a cool virtual try-on demo on Hugging Face Spaces! Demo link: [Huggingface Demo](https://huggingface.co/spaces/xiaozaa/catvton-flux-try-on).
+## News!!!! 🎉
+- Open-sourced `podcast-transcriber-mcp` 🎙️🔧! A demo project showcasing how to build MCP tools and utilize the OpenAI Agent SDK 🤖. Check it out here: [podcast-transcriber-mcp](https://github.com/dingkwang/podcast-transcriber-mcp). (2025-03-30) 👉 **Watch the tutorial:** [![Watch on Bilibili](https://img.shields.io/static/v1?style=flat-square&message=Watch+on+Bilibili&color=00A1D6&logo=Bilibili&logoColor=FFFFFF&label=)](https://www.bilibili.com/video/BV1paZqYfEFy/?share_source=copy_web&vd_source=999062d683f0ec8fe6b2d9ce6ccba71d)
+- Excited to share the first open-source FMCW LIDAR perception model training and test code! 🌟 Check it out here: [FMCW-DopplerPointTransformerNet](https://github.com/dingkwang/FMCW-DopplerPointTransformerNet). (2024-12-29)
+- We (with [An Zhang](https://www.linkedin.com/in/an-zhang-4412b8133/), [Ziang Xu](https://www.linkedin.com/in/stevexu24/), and [Yu Yao](https://www.linkedin.com/in/yu-brian-yao/)) have launched a cool virtual try-on demo on Hugging Face Spaces! Demo link: [Huggingface Demo](https://huggingface.co/spaces/xiaozaa/catvton-flux-try-on). (2024-11-29)
 
 
 ## What I'm Up To <img  height=50px src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" />
@@ -31,23 +32,27 @@ On the computer vision front, I collaborate with [Dr. Sanjeev Loppal](https://fo
 
 ## 🚀 Open Source Projects
 - 🌟 [dinov2-with-rope](https://github.com/dingkwang/dinov2-with-rope)
+- 🌟 [FMCW-DopplerPointTransformerNet](https://github.com/dingkwang/FMCW-DopplerPointTransformerNet)
+- 🎙️ [podcast-transcriber-mcp](https://github.com/dingkwang/podcast-transcriber-mcp)
 
 ## ✍️ Featured Articles
 -  [![Medium](https://img.shields.io/badge/Medium-12100E?style=&logo=medium&logoColor=white)](https://medium.com/@limyoonaxi) [KV Cache from scratch](https://medium.com/@wangdk93/kv-cache-from-scratch-94ca42fb2404)
 
 ## 💼 Professional Experience
-- 💻 **Perception Validation Engineer** at **Aeva**
+- 💻 **Software Engineer** at **Tesla** 🚗
+- Perception Validation Engineer at Aeva
 
-  
+
 ## 🔬 Academic Experience
 - 🤖 Research Assistant at [FOCUS LAB, University of Florida](https://focus.ece.ufl.edu/team/)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dingkang)](https://github.com/dingkang/github-readme-stats" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats-dingkang-qodmrh1fl-dingkangs-projects.vercel.app/api?username=dingkwang&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats-dingkang-qodmrh1fl-dingkangs-projects.vercel.app/api/top-langs?username=dingkang&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/H-Freax/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/dingkwang/count.svg?"  />
 </div>
 
 <br clear="both">
