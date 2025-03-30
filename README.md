@@ -5,14 +5,11 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/dingkwang)
 
 
-Welcome to my little corner of the internet! I am a Ph.D. holder in machine learning with expertise in autonomous driving and generative AI.
-
-I am working as a Perception Validation Engineer at [Aeva](aeva.ai). Alongside this, I am also a member of the San Francisco Bay Area [ZGZG machine learning study group](https://www.youtube.com/watch?v=sx4zDrBFx8g) study group.
+Welcome to my profile! I'm Dingkang Wang, a Software Engineer at Tesla 🚗. I specialize in leveraging Large Language Models (LLMs) 🧠 and data integration 📊 to develop AI models and agents 🤖 for automated test generation and integration within vehicle software CI/CD pipelines ⚡️.
 
 Beyond my work at Tesla, I'm an active member of the San Francisco Bay Area's [ZGZG machine learning study group](https://www.youtube.com/watch?v=sx4zDrBFx8g) 📚 and contribute as a Developer at CatchOnLabs, exploring Image Generative AI 🎨 and Virtual TryOn 👕.
 
-On the computer vision front, I collaborate with [Dr. Sanjeev Loppal](https://focus.ece.ufl.edu/team/) at the **FOCUS LAB** at the **University of Florida** on projects that aim to empower the capability of **drone** and **autonomous vehicle**.
-
+Previously, I was a Perception Validation Engineer at Aeva and collaborated with the [FOCUS LAB at the University of Florida](https://focus.ece.ufl.edu/team/) on drone 🚁 and autonomous vehicle projects.
 
 🌟🌟Feel free to reach out! 👋 Whether it's for research, collaboration, or just to exchange ideas over a casual chat 💬, I'm always open to connecting and exploring new possibilities!🌟🌟
 
