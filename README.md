@@ -7,7 +7,7 @@
 
 Welcome to my profile! I'm Dingkang Wang, a Software Engineer at Tesla 🚗. I specialize in leveraging Large Language Models (LLMs) 🧠 and data integration 📊 to develop AI models and agents 🤖 for automated test generation and integration within vehicle software CI/CD pipelines ⚡️.
 
-Beyond my work at Tesla, I'm an active member of the San Francisco Bay Area's [ZGZG machine learning study group](https://www.youtube.com/watch?v=sx4zDrBFx8g) 📚 and contribute as a Developer at CatchOnLabs, exploring Image Generative AI 🎨 and Virtual TryOn 👕.
+Beyond my work at Tesla, I like to exploring various AI/ML technologies, including image generation model, LLM agents and reinforcement learning.
 
 Previously, I was a Perception Validation Engineer at Aeva and collaborated with the [FOCUS LAB at the University of Florida](https://focus.ece.ufl.edu/team/) on drone 🚁 and autonomous vehicle projects.
 
