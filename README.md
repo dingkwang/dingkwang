@@ -22,7 +22,7 @@ Previously, I was a Perception Validation Engineer at Aeva and collaborated with
 
 ## What I'm Up To <img  height=50px src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" />
 
-- 🌱 I'm currently exploring the state-of-the-art virtual tryon generation model based on diffusion/flow matching. 
+- 🌱 I'm currently exploring training reinforcement learning model. 
 - 📝 Sharing my journey and insights through articles on platforms like [Medium](https://medium.com/@wangdk93).
 
 - 📫 How to reach me: [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=&logo=gmail&logoColor=white)](mailto:wangdk93@gmail.com)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-2d64bc?style=&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dingkang-wang-661219a0/).
