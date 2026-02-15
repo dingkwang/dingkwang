@@ -29,6 +29,8 @@ Previously, I was a Perception Validation Engineer at Aeva and collaborated with
 - 📫 How to reach me: [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=&logo=gmail&logoColor=white)](mailto:wangdk93@gmail.com)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-2d64bc?style=&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dingkang-wang-661219a0/).
 
 ## 🚀 Open Source Projects
+- 🤖 [claude-pr-review-team](https://github.com/dingkwang/claude-pr-review-team) - AI-powered code reviewer that automatically reviews pull requests using Claude, with configurable specialized reviewers for security, tests, frontend, backend, and more.
+- 🎙️ [podcastcut-skills](https://github.com/luoyuweidu1/podcastcut-skills) - Claude Code Skills for podcast/video editing: transcription, content editing, rough/fine cut, and final polish. Contributed the voiceclone skill.
 - 🌟 [dinov2-with-rope](https://github.com/dingkwang/dinov2-with-rope)
 - 🌟 [FMCW-DopplerPointTransformerNet](https://github.com/dingkwang/FMCW-DopplerPointTransformerNet)
 - 🎙️ [podcast-transcriber-mcp](https://github.com/dingkwang/podcast-transcriber-mcp)
