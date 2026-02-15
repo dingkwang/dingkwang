@@ -1,62 +1,118 @@
-<h1 align="center">Hi there, I'm Dingkang Wang ✨</h1>
-
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=dingkwang.dingkwang)
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/dingkwang)
-
-
-Welcome to my profile! I'm Dingkang Wang, a Software Engineer at Tesla 🚗. I specialize in leveraging Large Language Models (LLMs) 🧠 and data integration 📊 to develop AI models and agents 🤖 for automated test generation and integration within vehicle software CI/CD pipelines ⚡️.
-
-Beyond my work at Tesla, I like to exploring various AI/ML technologies, including image generation model, LLM agents and reinforcement learning.
-
-Previously, I was a Perception Validation Engineer at Aeva and collaborated with the [FOCUS LAB at the University of Florida](https://focus.ece.ufl.edu/team/) on drone 🚁 and autonomous vehicle projects.
-
-🌟🌟Feel free to reach out! 👋 Whether it's for research, collaboration, or just to exchange ideas over a casual chat 💬, I'm always open to connecting and exploring new possibilities!🌟🌟
-
-
-## News!!!! 🎉
-- Just released `claude-pr-reviewer-teams` 🤖✨! An AI-powered code reviewer that automatically reviews your pull requests using Claude. Configure specialized reviewers for different parts of your codebase - security, tests, frontend, backend, and more! Check it out here: [claude-pr-reviewer-teams](https://github.com/dingkwang/claude_pr_reviewer_teams). Welcome to try it out and share your feedback! 🚀 (2026-01-25)
-- Open-sourced `podcast-transcriber-mcp` 🎙️🔧! A demo project showcasing how to build MCP tools and utilize the OpenAI Agent SDK 🤖. Check it out here: [podcast-transcriber-mcp](https://github.com/dingkwang/podcast-transcriber-mcp). (2025-03-30) 👉 **Watch the tutorial:** [![Watch on Bilibili](https://img.shields.io/static/v1?style=flat-square&message=Watch+on+Bilibili&color=00A1D6&logo=Bilibili&logoColor=FFFFFF&label=)](https://www.bilibili.com/video/BV1paZqYfEFy/?share_source=copy_web&vd_source=999062d683f0ec8fe6b2d9ce6ccba71d)
-- Excited to share the first open-source FMCW LIDAR perception model training and test code! 🌟 Check it out here: [FMCW-DopplerPointTransformerNet](https://github.com/dingkwang/FMCW-DopplerPointTransformerNet). (2024-12-29)
-- We (with [An Zhang](https://www.linkedin.com/in/an-zhang-4412b8133/), [Ziang Xu](https://www.linkedin.com/in/stevexu24/), and [Yu Yao](https://www.linkedin.com/in/yu-brian-yao/)) have launched a cool virtual try-on demo on Hugging Face Spaces! Demo link: [Huggingface Demo](https://huggingface.co/spaces/xiaozaa/catvton-flux-try-on). (2024-11-29)
-
-
-## What I'm Up To <img  height=50px src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" />
-
-- 🌱 I'm currently exploring training reinforcement learning model. 
-- 📝 Sharing my journey and insights through articles on platforms like [Medium](https://medium.com/@wangdk93).
-
-- 📫 How to reach me: [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=&logo=gmail&logoColor=white)](mailto:wangdk93@gmail.com)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-2d64bc?style=&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dingkang-wang-661219a0/).
-
-## 🚀 Open Source Projects
-- 🤖 [claude-pr-review-team](https://github.com/dingkwang/claude-pr-review-team) - AI-powered code reviewer that automatically reviews pull requests using Claude, with configurable specialized reviewers for security, tests, frontend, backend, and more.
-- 🎙️ [podcastcut-skills](https://github.com/luoyuweidu1/podcastcut-skills) - Claude Code Skills for podcast/video editing: transcription, content editing, rough/fine cut, and final polish. Contributed the voiceclone skill.
-- 🌟 [dinov2-with-rope](https://github.com/dingkwang/dinov2-with-rope)
-- 🌟 [FMCW-DopplerPointTransformerNet](https://github.com/dingkwang/FMCW-DopplerPointTransformerNet)
-- 🎙️ [podcast-transcriber-mcp](https://github.com/dingkwang/podcast-transcriber-mcp)
-
-## ✍️ Featured Articles
--  [![Medium](https://img.shields.io/badge/Medium-12100E?style=&logo=medium&logoColor=white)](https://medium.com/@limyoonaxi) [KV Cache from scratch](https://medium.com/@wangdk93/kv-cache-from-scratch-94ca42fb2404)
-
-## 💼 Professional Experience
-- 💻 **Software Engineer** at **Tesla** 🚗
-- Perception Validation Engineer at Aeva
-
-
-## 🔬 Academic Experience
-- 🤖 Research Assistant at [FOCUS LAB, University of Florida](https://focus.ece.ufl.edu/team/)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Dingkang%20Wang&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
 <div align="center">
-  <img src="https://github-readme-stats-dingkang-qodmrh1fl-dingkangs-projects.vercel.app/api?username=dingkwang&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats-dingkang-qodmrh1fl-dingkangs-projects.vercel.app/api/top-langs?username=dingkang&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="150" alt="languages graph"  />
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FE428E&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=55&lines=AI+Agent+Builder+%7C+Autonomous+Driving+Engineer+%7C+AI+Infra" alt="Typing SVG" /></a>
+
 </div>
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/dingkwang/count.svg?"  />
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wangdk93@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dingkang-wang-661219a0/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@wangdk93)
+[![GitHub Pages](https://img.shields.io/badge/Portfolio-dingkwang.github.io-blueviolet?style=for-the-badge&logo=github)](https://dingkwang.github.io)
+
 </div>
 
-<br clear="both">
+---
+
+### About Me
+
+Software Engineer at **Tesla**, building AI agents and infrastructure for automated test generation within vehicle software CI/CD pipelines. I work at the intersection of **Large Language Models**, **autonomous driving**, and **data-driven systems**.
+
+Previously at **Aeva** (Perception Validation) and the **[FOCUS Lab @ University of Florida](https://focus.ece.ufl.edu/team/)** working on drone and autonomous vehicle perception.
+
+- Currently exploring **reinforcement learning** and **AI agent frameworks**
+- Writing about my journey on [Medium](https://medium.com/@wangdk93)
+
+---
+
+### News
+
+- **`claude-pr-reviewer-teams`** - AI-powered code reviewer using Claude with configurable specialized reviewers. [Repo](https://github.com/dingkwang/claude_pr_reviewer_teams) *(2026-01)*
+- **`podcast-transcriber-mcp`** - Demo project for building MCP tools with OpenAI Agent SDK. [Repo](https://github.com/dingkwang/podcast-transcriber-mcp) *(2025-03)* &nbsp; [![Bilibili](https://img.shields.io/badge/Tutorial-Bilibili-00A1D6?style=flat-square&logo=bilibili&logoColor=white)](https://www.bilibili.com/video/BV1paZqYfEFy/?share_source=copy_web&vd_source=999062d683f0ec8fe6b2d9ce6ccba71d)
+- **`FMCW-DopplerPointTransformerNet`** - First open-source FMCW LIDAR perception model training & test code. [Repo](https://github.com/dingkwang/FMCW-DopplerPointTransformerNet) *(2024-12)*
+- **Virtual Try-On Demo** with An Zhang, Ziang Xu, Yu Yao - [HuggingFace Demo](https://huggingface.co/spaces/xiaozaa/catvton-flux-try-on) *(2024-11)*
+
+---
+
+### Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| [claude-pr-review-team](https://github.com/dingkwang/claude-pr-review-team) | AI-powered PR reviewer using Claude - configurable specialized reviewers for security, tests, frontend, backend |
+| [podcastcut-skills](https://github.com/luoyuweidu1/podcastcut-skills) | Claude Code Skills for podcast/video editing: transcription, content editing, rough/fine cut, and final polish |
+| [deepagents-quickstarts](https://github.com/dingkwang/deepagents-quickstarts) | Quick-start templates and examples for building deep agents |
+| [tpu_training](https://github.com/dingkwang/tpu_training) | TPU training infrastructure and utilities |
+| [FMCW-DopplerPointTransformerNet](https://github.com/dingkwang/FMCW-DopplerPointTransformerNet) | FMCW LIDAR perception model with Doppler point transformer |
+| [dinov2-with-rope](https://github.com/dingkwang/dinov2-with-rope) | DINOv2 vision transformer with rotary position embeddings |
+| [podcast-transcriber-mcp](https://github.com/dingkwang/podcast-transcriber-mcp) | MCP tool demo with OpenAI Agent SDK for podcast transcription |
+
+---
+
+### Tech Stack
 
 <div align="center">
-  <img height="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
+
+**AI / ML**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude_API-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
+**Infrastructure**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/TPU-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+**Autonomous Driving**
+
+![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
 </div>
+
+---
+
+### GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats-dingkang-qodmrh1fl-dingkangs-projects.vercel.app/api?username=dingkwang&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true" height="160" alt="stats graph" />
+  <img src="https://github-readme-stats-dingkang-qodmrh1fl-dingkangs-projects.vercel.app/api/top-langs?username=dingkwang&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=true" height="160" alt="languages graph" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dingkwang&theme=radical&hide_border=true" height="160" alt="streak stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dingkwang&theme=redical&hide_border=true&area=true" width="95%" alt="contribution graph" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=dingkwang&theme=radical&no-frame=true&no-bg=true&column=7" width="95%" alt="trophies" />
+</div>
+
+---
+
+<div align="center">
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=dingkwang.dingkwang&left_color=grey&right_color=fe428e)
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
